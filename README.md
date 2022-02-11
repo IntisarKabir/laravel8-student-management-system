@@ -1,6 +1,7 @@
 # laravel8-student-management-system
 
 
+##download admin template from here: https://github.com/IntisarKabir/important-templates/tree/main/adminTemplates
 
 student management admin panel setup
 
