@@ -21,6 +21,10 @@ copy everything from login.html into adminlogin.blade.php and start editing
 
 
 
+Add the following snippet in web.php
+
+Route::view('loginpage', 'adminlogin');
+
 
 
 
