@@ -10,6 +10,25 @@ Install laravel 8 with a databased attached to it
 Remove server.php and rename it to index.php (for hosting benefit)
 
 
+Download the boostrap theme 
+
+extract necessary elements from the theme and copy into the project
+at respective places=>
+
+
+
+copy everything from login.html into adminlogin.blade.php and start editing
+
+
+
+
+
+
+
+
+
+
+
 
 
 
